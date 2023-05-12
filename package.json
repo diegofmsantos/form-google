@@ -2,7 +2,7 @@
   "name": "form-google",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://{username}.github.io/{nome-do-repositorio}",
+  "homepage": "https://diegofmsantos.github.io/form-google/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
