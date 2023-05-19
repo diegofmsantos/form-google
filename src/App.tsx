@@ -1,7 +1,5 @@
-import './App.css'
 import { Form } from "./components/Form";
 import googleBG from "./assets/banner-google.png";
-import googleLogo from "./assets/logo-google.png"
 
 const App = () => {
 
